@@ -1,14 +1,6 @@
 Interactive Eyes Project
 
 This project creates a pair of interactive eyes using HTML, CSS, and JavaScript. The eyes follow the movement of the mouse, creating a dynamic and engaging visual effect.
-Table of Contents
-
-    Project Structure
-    Usage
-    Customization
-    Dependencies
-    Contributing
-    License
 
 Project Structure
 

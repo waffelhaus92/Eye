@@ -1,4 +1,3 @@
-Certainly! Here's a simple README file for your code:
 Interactive Eyes Project
 
 This project creates a pair of interactive eyes using HTML, CSS, and JavaScript. The eyes follow the movement of the mouse, creating a dynamic and engaging visual effect.
